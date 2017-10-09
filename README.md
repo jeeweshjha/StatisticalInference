@@ -1,0 +1,2 @@
+# StatisticalInference
+statistical inference course
